@@ -1,7 +1,5 @@
 # alarm_system
 
-# Raspberry Pi Pico Laser Tripwire Alarm
-
 A simple laser tripwire system using a Raspberry Pi Pico, a photoresistor module, and an active buzzer.  
 When the laser beam is broken, the buzzer sounds an alarm. This project is great for learning about MicroPython, ADC readings, and basic electronics.
 
